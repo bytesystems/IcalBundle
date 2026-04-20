@@ -2,6 +2,8 @@ BOMOIcalBundle
 ==============
 
 This bundle is used to create an ics file or url to populate a shared calendar with events.
+Forked from github.com/BorisMorel/IcalBundle
+This package is temporary to use with symfony 6.
 
 ## Caution
 
